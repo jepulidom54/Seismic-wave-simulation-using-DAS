@@ -1,0 +1,17 @@
+"""
+The "Seismic wave simulation using DAS" GitHub repository is a project aimed at simulating the propagation
+of seismic waves through different geological scenarios using DAS (Distributed Acoustic Sensing) technology. 
+The project focuses mainly on the application of simulation to capture and storage of CO2, 
+but it can also be used for other purposes.
+
+The repository contains code in Python and Java that implements the finite element solution 
+to simulate the propagation of seismic waves. Specialized libraries for finite element solution and result visualization, 
+such as NumPy, SciPy, Matplotlib, JMathPlot, and JFreeChart, are also provided. In addition, notebooks and scripts are included 
+that show how to use the simulation in different geological scenarios.
+
+The project is useful for researchers and professionals working on the capture and storage of CO2, 
+as it allows simulating the behavior of seismic waves in different geological formations and predicting 
+potential issues during operation. The repository can also be useful for those interested in seismic wave simulation in general, 
+as it provides a framework for implementing the finite element solution in Python and Java.
+
+"""
